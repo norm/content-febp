@@ -1,0 +1,40 @@
+        "Front End Best Practices" is a site for collecting the expert domain
+        knowledge of <a group> of passionate and highly experienced web
+        developers.
+        
+        Starting from first principles, the core beliefs of what makes a good
+        website, we then break these down into useful guidelines, examples and
+        recommendations for actual code.
+        
+        The origins of this work are a set of guidelines published internally
+        at <Yahoo!>, which came out of an extensive set of <reviews>
+        performed against code produced by the European web development team
+        (or, if you prefer "front-end engineers" or "client-side developers").
+        
+        As Robert A. Heinlein wrote in "Glory Road":
+        
+    >   Wisdom is not additive; its maximum is that of the wisest man in a
+    >   given group.
+        
+        By creating a store of knowledge, of wisdom, others can benefit from
+        the experiences and costly mistakes of those who have done something 
+        similar before.
+        
+        Obviously we'd like you to take our advice wholesale. But we realise
+        that these are ideals --- they document what you should do in a
+        situation where there are no other pressures affecting the work. These
+        are not rules to be followed blindly. They should allow you to make an
+        informed decision as to what you will do in a given circumstance in
+        your work.
+
+        Furthermore, nothing in this set of documentation is involatile, 
+        beyond questioning or closed to criticism. If you disagree and
+        can <back up your argument>, then we urge you to <get involved>.
+        
+        
+        
+<a group | /about/the-members/>
+<Yahoo!  | http://yahoo.com/>
+<reviews | http://frontendcodereview.com/>
+<back up your argument | /about/we-want-evidence/>
+<get involved | /about/getting-involved/>
