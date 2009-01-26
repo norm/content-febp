@@ -1,0 +1,88 @@
+        The <HTML 4.01> doctype must be used, and should be the strict
+        variant. If the page has an «iframe» in use, then the doctype variant 
+        should be transitional.
+        
+        The only exception is if the document has to contain namespaced XML
+        content, such as MathML and SVG. In these cases you must use XHTML.
+        
+        
+        
+    Discussion on other doctypes
+        
+        Why choose HTML 4.01, rather than another doctype? As stated in
+        the <Mozilla Web Developer FAQ>:
+    
+    From <Mozilla Web Developer FAQ>:
+    >   Serving valid HTML 4.01 as text/html ensures the widest browser and
+    >   search engine support.
+        
+        
+        Earlier HTML doctypes
+        
+        HTML 4.01 is the most recent version, was first published in 1997 and
+        became a candidate recommendation from the W3C in 1999. Older versions
+        of HTML have been deprecated for nearly a decade.
+        
+        
+        HTML 5
+        
+        HTML 5 is still evolving, and as such should not be relied upon for
+        publications, only in experimentation work being done to learn more
+        about HTML 5. As the <HTML 5 working draft> states:
+        
+    From <HTML 5 working draft>:
+    >   Implementors should be aware that this specification is not stable.
+    >   _*Implementors who are not taking part in the discussions are likely
+    >   to find the specification changing out from under them in incompatible
+    >   ways.*_
+        
+        
+        XHTML
+        
+        <XHTML> is really only valid XHTML when the web server delivers it to
+        the browser with the correct MIME type. As stated in the <Webkit blog>
+        entry on <Understanding HTML, XML and XHTML>:
+    
+    From <Understanding HTML, XML and XHTML>:
+    >   So what really determines if a document is HTML or XHTML? The one and
+    >   only thing that controls whether a document is HTML or XHTML is the
+    >   MIME type. If the document is served with a «text/html» MIME type, it
+    >   is treated as HTML. If it is served as «application/xhtml+xml» or
+    >   «text/xml», it gets treated as XHTML.  
+        
+        Internet Explorer before version 7 do not correctly handle the
+        «application/xhtml+xml» MIME type. This accounts for more than one
+        third of the browsers in use on the Internet at the end of 2008,
+        according to several browser stats sites (including <The Counter>).
+        
+        
+    Related Links
+    
+    *   Ian Hickson's <Sending XHTML as text/html considered harmful>
+    
+    *   Surfin' Safari's <Understanding HTML, XML and XHTML>
+    
+    *   <Mozilla Web Developer FAQ>
+    
+    *   Anne van Kesteren's <Quick Guide to XHTML>
+    
+    *   Mark Pilgrim's <The Road to XHTML 2.0: Mime Types>
+
+
+
+
+<HTML 4.01   | http://www.w3.org/TR/html401/>
+<XHTML       | http://www.w3.org/TR/xhtml11/>
+<Webkit blog | http://webkit.org/blog/>
+<The Counter | http://www.thecounter.com/stats/2008/December/browser.php>
+
+<HTML 5 working draft | http://www.w3.org/TR/html5/>
+<Quick Guide to XHTML | http://annevankesteren.nl/2004/08/xhtml>
+<Mozilla Web Developer FAQ |
+    https://developer.mozilla.org/en/Mozilla_Web_Developer_FAQ>
+<Understanding HTML, XML and XHTML |
+    http://webkit.org/blog/68/understanding-html-xml-and-xhtml/>
+<Sending XHTML as text/html considered harmful |
+    http://hixie.ch/advocacy/xhtml>
+<The Road to XHTML 2.0: Mime Types |
+    http://www.xml.com/pub/a/2003/03/19/dive-into-xml.html>
