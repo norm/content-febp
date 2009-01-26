@@ -1,0 +1,85 @@
+        New or updated documents within Front-End Best Practices come from
+        requests or discussion on the <mailing list>, from internal
+        discussions amongst the <group members>, and from the output of <code
+        reviews>.
+        
+        
+    Consideration
+        
+        When a document is scheduled for creation or revision, comments will
+        be solicited on the <mailing list>. A minimum period of one week will
+        be allowed for the initial gathering of feedback.
+        
+        The <chair> (or occasionally another member of the <group>) will then
+        draft a document and circulate it amongst the <group> for initial
+        comment and criticism.
+        
+        
+    Drafts
+        
+        Once a draft document is considered ready for prime-time, it will be
+        published and further comment sought from the <list>. Any significant
+        problems can cause the document to be re-drafted. Note, however, that
+        not all comments will result in proposed documents being revised.
+        
+        A document may go through several drafts before adoption. A minimum
+        period of three weeks will be allowed between the publication of a
+        draft and its promotion to an adopted practice.
+        
+        
+    Adoption
+        
+        After the draft period has passed, a document will be considered an
+        adopted practice. The file will be archived permanently as a numbered
+        revision and cross-linked appropriately, then the <list> informed of 
+        the change in status.
+        
+        If you are using the Front-End Best Practices to inform your
+        development, this is the point where you should adopt the practice
+        in your work (see <how to use this site> for more discussion on this
+        topic).
+        
+        
+    Revisions
+        
+        At least once a year, the <group> will review the adopted practices to
+        check that they are still relevant and up-to-date. Also, anyone with
+        new information or objections can ask that a document be revised on
+        the <list>.
+        
+        When an adopted practice is deemed unfit, the <chair> will either:
+        
+    *   mark it as no longer relevant and remove cross-links as needed
+        
+    *   create a new revision marking it as a draft and return the 
+        document to the consideration phase
+        
+        
+        Criteria for revisions
+        
+        The criteria for accepting and prioritising a revision to an adopted
+        practice would include, but not be limited to:
+        
+    *   a demonstrated negative effect upon one of the areas of excellence
+    
+    *   a conflict with another development technique
+    
+    *   confusing or ambiguous wording or examples
+    
+    *   a new or improved working example
+    
+    *   a better understanding of the underlying problem or technique
+    
+    *   updated real-world experience (from newer browsers, for example)
+        
+        
+        
+        
+        
+<mailing list  | http://groups.google.com/group/front-end-best-practices/>
+<list          | http://groups.google.com/group/front-end-best-practices/>
+<chair         | /about/the-members/the-current-chair>
+<group members | /about/the-members/>
+<group         | /about/the-members/>
+<code reviews  | http://frontendcodereview.com/>
+<how to use this site | /about/using-this-site>
